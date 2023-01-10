@@ -39,7 +39,7 @@
  </p>
  <br><br><br>
 
- <p>
+ <p align="center>
  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyebeen-dev)](https://github.com/leeyebeen-dev/github-readme-stats)
  
