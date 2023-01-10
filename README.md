@@ -39,7 +39,7 @@
  </p>
  <br><br><br>
 
- <div align="center>
+ <div>
  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyebeen-dev)](https://github.com/leeyebeen-dev/github-readme-stats)
  
@@ -47,7 +47,7 @@
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyebeen-dev&layout=compact)](https://github.com/leeyebeen-dev/github-readme-stats)
  
-</div>  
+ </div>  
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
