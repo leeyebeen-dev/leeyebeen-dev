@@ -3,6 +3,9 @@
  <p align="center">
   I'm trying to become an influential developer in the world.
  </p>
+ <p align="center">
+  I'm majoring in Computer Software Engineering.
+ </p>
  <br><br><br>
  
  <h3 align="center">Skills</h3>
