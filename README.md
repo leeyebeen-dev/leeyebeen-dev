@@ -19,6 +19,7 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/Folium-77B829?style=flat&logo=Folium&logoColor=white"/>
+   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
  
    <br>
  
@@ -35,7 +36,8 @@
  
    <br>
  
-   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
+   <img src="https://img.shields.io/badge/amazonaws-527FFF?style=flat&logo=amazon&logoColor=white"/>
  </p>
  
  <br><br><br>
