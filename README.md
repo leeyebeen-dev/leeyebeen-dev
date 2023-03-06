@@ -3,7 +3,7 @@
  <h3 align="center">🙋‍♀️ Intro</h3>
  
  <p align="center">
-  I'm trying to become an influential developer in the world.
+  I'm trying to become an influential developer in the world!
  </p>
  
  <p align="center">
