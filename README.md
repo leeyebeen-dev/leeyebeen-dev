@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Hello.%20I'm%Yecong!&fontSize=60&animation=fadeIn&fontColor=ffffff)
  
+ <div align="center">
+ <image src="https://user-images.githubusercontent.com/84004751/230708683-cd4c6e85-b3ee-4c26-ab59-4cac9e421fcc.png" width="175" height="250">
+ </div>
+ 
  <h3 align="center">🙋‍♀️ Intro</h3>
  
  <p align="center">
