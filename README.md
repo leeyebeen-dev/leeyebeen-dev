@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Hello.%20I'm%Yecong!&fontSize=60&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F6CEF5&height=200&section=header&text=Hello.%20I'm%Yecong!&fontSize=60&animation=fadeIn&fontColor=ffffff)
  
  <h3 align="center">🙋‍♀️ Intro</h3>
  
@@ -79,4 +79,4 @@
  </div>  
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F6CEF5&height=200&section=footer)
