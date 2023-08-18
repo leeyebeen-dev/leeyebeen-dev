@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F5A9F2&height=200&section=header&text=Hello.%20I'm%Yecong!&fontSize=60&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F5A9F2&height=200&section=header&text=Welcome%20to%20Yecong's%20Space&fontSize=60&animation=fadeIn&fontColor=ffffff)
  
  <h3 align="center">🙋‍♀️ Intro</h3>
  
  <p align="center">
-  I'm trying to become an influential developer in the world!
+  I'm trying to become an ios developer!
  </p>
  
  <p align="center">
