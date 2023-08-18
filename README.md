@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F6CEF5&height=200&section=header&text=Hello.%20I'm%Yecong!&fontSize=60&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F5A9F2&height=200&section=header&text=Hello.%20I'm%Yecong!&fontSize=60&animation=fadeIn&fontColor=ffffff)
  
  <h3 align="center">🙋‍♀️ Intro</h3>
  
@@ -47,6 +47,8 @@
  <p align="center">
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
  </p>
  
  <br><br><br>
