@@ -3,14 +3,14 @@
  <h3 align="center">🙋‍♀️ Intro</h3>
  
  <p align="center">
-  I'm trying to become an ios developer!
+  I'm trying to become an iOS developer!
  </p>
  
  <p align="center">
   I'm majoring in Computer Software Engineering.
  </p>
  
- <br><br><br>
+ <br>
  
  <h3 align="center">🔨 Skill & Tools</h3>
  
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
  </p>
  
- <br><br><br>
+ <br>
  
  <h3 align="center">💌 Follow</h3>
  
@@ -44,7 +44,7 @@
    </a>
  </p>
  
- <br><br><br>
+ <br>
 
  <div align="center">
  
