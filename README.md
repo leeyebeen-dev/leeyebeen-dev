@@ -41,3 +41,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyebeen-dev&hide=contribs,prs&show_icons=true&theme=graywhite)
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leeyebeen-dev&theme=graywhite&hide_border=true&locale=eng" alt="GitHub Streak" /></a>
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/leeyebeen-dev"
+  width="600"
+  height="300"
+/>
+</a>
